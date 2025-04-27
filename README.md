@@ -1,3 +1,3 @@
-# Amazon-Prep-Journey
+# Applied Scientist
 
 Tracking my applied scientist prep
