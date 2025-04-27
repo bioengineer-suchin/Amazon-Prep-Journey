@@ -1,3 +1,3 @@
 # Applied Scientist
 
-Tracking my applied scientist prep
+My achievements and efforts put into learning to be an Applied Scientist
